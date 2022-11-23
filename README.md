@@ -3,6 +3,7 @@ Before
 <img src="screenshots/sc1.PNG"/>
 After
 <img src="screenshots/sc2.PNG"/>
+Reference web page on the new [colors](https://stackoverflow.com/questions/3769762/web-colors-in-an-android-color-xml-resource-file).
 # Ejemplo titulo, imagen y texto
 
 <img src="screenshots/mdc_samples.gif" alt="Reply, Owl, Basil sample demos"/>
