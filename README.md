@@ -1,3 +1,6 @@
+# Modify values/color.xml
+<img src="screenshots/sc1.PNG"/>
+
 # material-components-android-examples
 
 <img src="screenshots/mdc_samples.gif" alt="Reply, Owl, Basil sample demos"/>
