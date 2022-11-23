@@ -2,7 +2,7 @@
 Before
 <img src="screenshots/sc1.PNG"/>
 After
-<img src="screenshots/sc1.PNG"/>
+<img src="screenshots/sc2.PNG"/>
 # Ejemplo titulo, imagen y texto
 
 <img src="screenshots/mdc_samples.gif" alt="Reply, Owl, Basil sample demos"/>
